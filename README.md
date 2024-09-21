@@ -4,3 +4,4 @@
 type 1 
 type 2
 type 3
+1-2
